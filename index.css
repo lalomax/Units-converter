@@ -1,0 +1,43 @@
+html, body, p {
+    margin: 0;
+    padding: 0;
+    color: white;
+  font-family: sans-serif;
+}
+
+#number-el {
+  opacity: 0.3;
+  color: black;
+  font-size: 36px;
+  text-align: center;
+  width: 150px;
+  border-radius: 5px;
+}
+
+p {
+    font-size: 14px;
+    
+}
+
+p strong {
+    font-weight: 800;
+
+}
+
+.container {
+    width: 550px;
+    height: 550px;
+    text-align: center;
+    margin: auto;
+}
+.hero {
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    padding: 30px 0;
+
+}
+
+.content {
+    background: #1F2937;
+    line-height: 3.5;
+    /* border: 3px solid red; */
+}
